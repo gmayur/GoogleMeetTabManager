@@ -1,8 +1,6 @@
 # GoogleMeetTabManager
-Google Chrome extension to automatically close inactive Google Meet landing tabs to help users manage their browser resources more efficiently.
-# Google Meet Tab Manager
+Google Chrome extension to automatically close inactive Google Meet landing tabs to help users manage declutter open Google Meet tabs and manage their browser resources more efficiently.
 
-This Chrome extension automatically closes inactive Google Meet landing tabs and keeps track of the number of tabs closed.
 
 > Note: This extension was created with the assistance of Claude 3.5 Sonnet and Cursor AI.
 
